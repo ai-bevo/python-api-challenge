@@ -10,4 +10,5 @@ The next task uses the generated list of cities and the Open Weather API (https:
 With the newly created dataframe I was able to generate scatter plots to show correlations between the latitude and the various weather information for each city.
 The plot below is an example of the Max Temperature versus Latitude.
 
-![City Latitude vs. Max Temperture](WeatherPy\output_data\City_Lat_vs_Max_Temp.png)
+![City Latitude vs. Max Temperture](WeatherPy/output_data/City_Lat_vs_Max_Temp.png)
+
